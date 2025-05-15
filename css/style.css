@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+
+}
+.carousel-inner img{
+    width: 100%;
+    height: 90vh;
+}
